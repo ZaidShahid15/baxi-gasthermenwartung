@@ -1394,45 +1394,44 @@ FÜR DEN HERBST</h2>				</div>
 					<h2 class="elementor-heading-title elementor-size-default">Kontaktieren Sie uns</h2>				</div>
 				<div class="elementor-element elementor-element-bf8a373 elementor-widget elementor-widget-shortcode" data-id="bf8a373" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
 							<div class="elementor-shortcode">
-<div class="wpcf7 no-js" id="wpcf7-f44-p6-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<div class="contact-form-box" id="wpcf7-f44-p6-o1" lang="en-US" dir="ltr">
 <form action="__CONTACT_FORM_ACTION__" method="post" aria-label="Contact form" novalidate="novalidate">
 __CONTACT_FORM_CSRF__
 __CONTACT_FORM_SUCCESS__
 __CONTACT_FORM_ERROR__
 <div class="row">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_NAME__" placeholder="Ihr Name" value="__CONTACT_OLD_NAME__" type="text" name="your-name" /></span>
+		<p><span class="form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_NAME__" placeholder="Ihr Name" value="__CONTACT_OLD_NAME__" type="text" name="your-name" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="__CONTACT_INVALID_EMAIL__" placeholder="E-Mail-Adresse" value="__CONTACT_OLD_EMAIL__" type="email" name="your-email" /></span>
+		<p><span class="form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_EMAIL__" placeholder="E-Mail-Adresse" value="__CONTACT_OLD_EMAIL__" type="email" name="your-email" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="__CONTACT_INVALID_PHONE__" placeholder="Telefonnummer" value="__CONTACT_OLD_PHONE__" type="tel" name="your-phone" /></span>
+		<p><span class="form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_PHONE__" placeholder="Telefonnummer" value="__CONTACT_OLD_PHONE__" type="tel" name="your-phone" /></span>
 		</p>
 	</div>
 </div>
 <div class="row">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_COMPANY__" placeholder="Name der Firma" value="__CONTACT_OLD_COMPANY__" type="text" name="your-company" /></span>
+		<p><span class="form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_COMPANY__" placeholder="Name der Firma" value="__CONTACT_OLD_COMPANY__" type="text" name="your-company" /></span>
 		</p>
 	</div>
 </div>
 <div class="row full">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_MESSAGE__" placeholder="Nachricht" name="your-message">__CONTACT_OLD_MESSAGE__</textarea></span>
+		<p><span class="form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_MESSAGE__" placeholder="Nachricht" name="your-message">__CONTACT_OLD_MESSAGE__</textarea></span>
 		</p>
 	</div>
 </div>
 <div class="button-wrapper">
-	<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Anfrage senden" />
+	<p><input class="contact-submit" type="submit" value="Anfrage senden" />
 	</p>
 </div>
 <style>
 /* Base styling */
-.wpcf7 {
+.contact-form-box {
  font-family: 'Montserrat', sans-serif;
  max-width: 1000px;
  margin: 0 auto;
@@ -1442,46 +1441,46 @@ __CONTACT_FORM_ERROR__
  color: #0f1c3f;
 }
 
-.wpcf7 .form-alert {
+.contact-form-box .form-alert {
  padding: 1rem 1.25rem;
  border-radius: 6px;
  margin-bottom: 1rem;
  font-size: 0.95rem;
 }
 
-.wpcf7 .form-alert-success {
+.contact-form-box .form-alert-success {
  background-color: #e8f7ee;
  border: 1px solid #8bc7a1;
  color: #175b31;
 }
 
-.wpcf7 .form-alert-error {
+.contact-form-box .form-alert-error {
  background-color: #fdecec;
  border: 1px solid #e1a0a0;
  color: #8b1e1e;
 }
 
-.wpcf7 .row {
+.contact-form-box .row {
  display: flex;
  gap: 1rem;
  margin-bottom: 1rem;
  flex-wrap: wrap;
 }
 
-.wpcf7 .row.full {
+.contact-form-box .row.full {
  flex-direction: column;
 }
 
-.wpcf7 .field {
+.contact-form-box .field {
  flex: 1;
  min-width: 280px;
  display: flex;
  flex-direction: column;
 }
 
-.wpcf7 input,
-.wpcf7 select,
-.wpcf7 textarea {
+.contact-form-box input,
+.contact-form-box select,
+.contact-form-box textarea {
  padding: 1rem;
  border: 1px solid #ccc;
  border-radius: 6px;
@@ -1490,17 +1489,17 @@ __CONTACT_FORM_ERROR__
  width: 100%;
 }
 
-.wpcf7 textarea {
+.contact-form-box textarea {
  min-height: 150px;
  resize: vertical;
 }
 
-.wpcf7 .button-wrapper {
+.contact-form-box .button-wrapper {
  text-align: center;
  margin-top: 1.5rem;
 }
 
-.wpcf7 input[type="submit"] {
+.contact-form-box .contact-submit {
  background-color: #19365E;
  color: white;
  padding: 1rem 2rem;
@@ -1511,16 +1510,16 @@ __CONTACT_FORM_ERROR__
  transition: background-color 0.3s ease;
 }
 
-.wpcf7 input[type="submit"]:hover {
+.contact-form-box .contact-submit:hover {
  background-color: #3e365e;
 }
 
 @media (max-width: 768px) {
- .wpcf7 .row {
+ .contact-form-box .row {
  flex-direction: column;
  }
 }
-</style><div class="wpcf7-response-output" aria-hidden="true"></div>
+</style>
 </form>
 </div>
 
