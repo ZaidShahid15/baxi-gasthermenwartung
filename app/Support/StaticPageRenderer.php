@@ -5,6 +5,13 @@ namespace App\Support;
 class StaticPageRenderer
 {
     protected const SOURCE_HOST = 'https://baxi-gasthermenwartung.at';
+    protected const STATIC_DIRECTORIES = [
+        '/wp-content/',
+        '/wp-includes/',
+        '/external/',
+        '/assets/',
+        '/local-assets/',
+    ];
 
     public static function render(string $view): string
     {
@@ -43,7 +50,7 @@ class StaticPageRenderer
             $decoded = json_decode($assetMapJson ?: '[]', true);
 
             if (is_array($decoded)) {
-                $assetMap = $decoded;
+                $assetMap = self::normalizeAssetMap($decoded);
             }
         }
 
@@ -65,12 +72,43 @@ class StaticPageRenderer
         $replacements = array_merge($assetMap, $routeMap);
         $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-admin\/admin-ajax.php'] = '#';
         $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-json\/'] = '#';
-        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/uploads'] = asset('wp-content/uploads');
-        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor\/assets\/'] = asset('wp-content/plugins/elementor/assets') . '/';
-        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor-pro\/assets\/'] = asset('wp-content/plugins/elementor-pro/assets') . '/';
-        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/themes\/hello-elementor\/assets\/'] = asset('wp-content/themes/hello-elementor/assets') . '/';
+        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/uploads'] = self::staticAsset('wp-content/uploads');
+        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor\/assets\/'] = self::staticAsset('wp-content/plugins/elementor/assets') . '/';
+        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor-pro\/assets\/'] = self::staticAsset('wp-content/plugins/elementor-pro/assets') . '/';
+        $replacements['https:\/\/baxi-gasthermenwartung.at\/wp-content\/themes\/hello-elementor\/assets\/'] = self::staticAsset('wp-content/themes/hello-elementor/assets') . '/';
 
         return $replacements;
+    }
+
+    protected static function normalizeAssetMap(array $assetMap): array
+    {
+        $normalized = [];
+
+        foreach ($assetMap as $source => $target) {
+            if (is_string($target) && self::isLocalStaticPath($target)) {
+                $target = self::staticAsset(ltrim($target, '/'));
+            }
+
+            $normalized[$source] = $target;
+        }
+
+        return $normalized;
+    }
+
+    protected static function isLocalStaticPath(string $path): bool
+    {
+        foreach (self::STATIC_DIRECTORIES as $directory) {
+            if (str_starts_with($path, $directory)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    protected static function staticAsset(string $path): string
+    {
+        return route('static.asset', ['path' => ltrim($path, '/')]);
     }
 
     protected static function contactFormReplacements(): array
