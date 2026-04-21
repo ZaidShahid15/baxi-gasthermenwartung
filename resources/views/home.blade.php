@@ -1396,37 +1396,33 @@ FÜR DEN HERBST</h2>				</div>
 							<div class="elementor-shortcode">
 <div class="wpcf7 no-js" id="wpcf7-f44-p6-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="{{ route('contact.submit') }}#wpcf7-f44-p6-o1" method="post" aria-label="Contact form" novalidate="novalidate">
-@csrf
-@if (session('contact_success'))
-<div class="form-alert form-alert-success">{{ session('contact_success') }}</div>
-@endif
-@if ($errors->any())
-<div class="form-alert form-alert-error">Bitte pruefen Sie die eingegebenen Daten und versuchen Sie es erneut.</div>
-@endif
+<form action="__CONTACT_FORM_ACTION__" method="post" aria-label="Contact form" novalidate="novalidate">
+__CONTACT_FORM_CSRF__
+__CONTACT_FORM_SUCCESS__
+__CONTACT_FORM_ERROR__
 <div class="row">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-name') ? 'true' : 'false' }}" placeholder="Ihr Name" value="{{ old('your-name') }}" type="text" name="your-name" /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_NAME__" placeholder="Ihr Name" value="__CONTACT_OLD_NAME__" type="text" name="your-name" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="{{ $errors->has('your-email') ? 'true' : 'false' }}" placeholder="E-Mail-Adresse" value="{{ old('your-email') }}" type="email" name="your-email" /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="__CONTACT_INVALID_EMAIL__" placeholder="E-Mail-Adresse" value="__CONTACT_OLD_EMAIL__" type="email" name="your-email" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="{{ $errors->has('your-phone') ? 'true' : 'false' }}" placeholder="Telefonnummer" value="{{ old('your-phone') }}" type="tel" name="your-phone" /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="__CONTACT_INVALID_PHONE__" placeholder="Telefonnummer" value="__CONTACT_OLD_PHONE__" type="tel" name="your-phone" /></span>
 		</p>
 	</div>
 </div>
 <div class="row">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-company') ? 'true' : 'false' }}" placeholder="Name der Firma" value="{{ old('your-company') }}" type="text" name="your-company" /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_COMPANY__" placeholder="Name der Firma" value="__CONTACT_OLD_COMPANY__" type="text" name="your-company" /></span>
 		</p>
 	</div>
 </div>
 <div class="row full">
 	<div class="field">
-		<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-message') ? 'true' : 'false' }}" placeholder="Nachricht" name="your-message">{{ old('your-message') }}</textarea></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="__CONTACT_INVALID_MESSAGE__" placeholder="Nachricht" name="your-message">__CONTACT_OLD_MESSAGE__</textarea></span>
 		</p>
 	</div>
 </div>
