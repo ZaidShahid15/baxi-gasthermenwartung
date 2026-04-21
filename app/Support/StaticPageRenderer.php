@@ -108,7 +108,7 @@ class StaticPageRenderer
 
     protected static function staticAsset(string $path): string
     {
-        return route('static.asset', ['path' => ltrim($path, '/')]);
+        return url('public/' . ltrim($path, '/'));
     }
 
     protected static function contactFormReplacements(): array

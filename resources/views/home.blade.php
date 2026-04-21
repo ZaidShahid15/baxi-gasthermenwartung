@@ -10,7 +10,7 @@
 <title>Der zuverlässige Baxi Gasthermenwartung: Ihre Unterstützung für Heizungen</title>
 <meta name="description" content="Entdecken Sie den zuverlässigen Baxi Gasthermenwartung für Ihre Heizungsfragen. Erfahren Sie, wie wir Ihnen schnell und effektiv helfen können. Lesen Sie mehr"/>
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="https://baxi-gasthermenwartung.at/" />
+<link rel="canonical" href="http://localhost" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Der zuverlässige Baxi Gasthermenwartung: Ihre Unterstützung für Heizungen" />
@@ -27,20 +27,20 @@
 <meta name="twitter:data1" content="seo.alirajpoot@gmail.com" />
 <meta name="twitter:label2" content="Time to read" />
 <meta name="twitter:data2" content="11 minutes" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://baxi-gasthermenwartung.at/#person","name":"baxi-notdienst.at"},{"@type":"WebSite","@id":"https://baxi-gasthermenwartung.at/#website","url":"https://baxi-gasthermenwartung.at","name":"baxi-notdienst.at","publisher":{"@id":"https://baxi-gasthermenwartung.at/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://baxi-gasthermenwartung.at/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png","url":"https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://baxi-gasthermenwartung.at/#webpage","url":"https://baxi-gasthermenwartung.at/","name":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","datePublished":"2025-07-07T19:36:20+00:00","dateModified":"2026-02-26T23:01:17+00:00","about":{"@id":"https://baxi-gasthermenwartung.at/#person"},"isPartOf":{"@id":"https://baxi-gasthermenwartung.at/#website"},"primaryImageOfPage":{"@id":"https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","name":"seo.alirajpoot@gmail.com","url":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/a79ae08bdac1a767ca786233968004e614083a3bba5af6475fc7b906bbab7314?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/a79ae08bdac1a767ca786233968004e614083a3bba5af6475fc7b906bbab7314?s=96&amp;d=mm&amp;r=g","caption":"seo.alirajpoot@gmail.com","inLanguage":"en-US"},"sameAs":["https://baxi-gasthermenwartung.at"]},{"@type":"Article","headline":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","keywords":"Baxi Gasthermenwartung","datePublished":"2025-07-07T19:36:20+00:00","dateModified":"2026-02-26T23:01:17+00:00","author":{"@id":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","name":"seo.alirajpoot@gmail.com"},"publisher":{"@id":"https://baxi-gasthermenwartung.at/#person"},"description":"Entdecken Sie den zuverl\u00e4ssigen Baxi Gasthermenwartung f\u00fcr Ihre Heizungsfragen. Erfahren Sie, wie wir Ihnen schnell und effektiv helfen k\u00f6nnen. Lesen Sie mehr","name":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","@id":"https://baxi-gasthermenwartung.at/#richSnippet","isPartOf":{"@id":"https://baxi-gasthermenwartung.at/#webpage"},"image":{"@id":"https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://baxi-gasthermenwartung.at/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://baxi-gasthermenwartung.at/#person","name":"baxi-notdienst.at"},{"@type":"WebSite","@id":"https://baxi-gasthermenwartung.at/#website","url":"https://baxi-gasthermenwartung.at","name":"baxi-notdienst.at","publisher":{"@id":"https://baxi-gasthermenwartung.at/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://baxi-gasthermenwartung.at/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png","url":"/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://baxi-gasthermenwartung.at/#webpage","url":"https://baxi-gasthermenwartung.at/","name":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","datePublished":"2025-07-07T19:36:20+00:00","dateModified":"2026-02-26T23:01:17+00:00","about":{"@id":"https://baxi-gasthermenwartung.at/#person"},"isPartOf":{"@id":"https://baxi-gasthermenwartung.at/#website"},"primaryImageOfPage":{"@id":"/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","name":"seo.alirajpoot@gmail.com","url":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/a79ae08bdac1a767ca786233968004e614083a3bba5af6475fc7b906bbab7314?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/a79ae08bdac1a767ca786233968004e614083a3bba5af6475fc7b906bbab7314?s=96&amp;d=mm&amp;r=g","caption":"seo.alirajpoot@gmail.com","inLanguage":"en-US"},"sameAs":["https://baxi-gasthermenwartung.at"]},{"@type":"Article","headline":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","keywords":"Baxi Gasthermenwartung","datePublished":"2025-07-07T19:36:20+00:00","dateModified":"2026-02-26T23:01:17+00:00","author":{"@id":"https://baxi-gasthermenwartung.at/author/seo-alirajpootgmail-com/","name":"seo.alirajpoot@gmail.com"},"publisher":{"@id":"https://baxi-gasthermenwartung.at/#person"},"description":"Entdecken Sie den zuverl\u00e4ssigen Baxi Gasthermenwartung f\u00fcr Ihre Heizungsfragen. Erfahren Sie, wie wir Ihnen schnell und effektiv helfen k\u00f6nnen. Lesen Sie mehr","name":"Der zuverl\u00e4ssige Baxi Gasthermenwartung: Ihre Unterst\u00fctzung f\u00fcr Heizungen","@id":"https://baxi-gasthermenwartung.at/#richSnippet","isPartOf":{"@id":"https://baxi-gasthermenwartung.at/#webpage"},"image":{"@id":"/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://baxi-gasthermenwartung.at/#webpage"}}]}</script>
 <meta name="google-site-verification" content="Y2CQVBb6o67e0Ebay_0OkAe88rO83HHAZMq4jK9JmTQ" />
 <!-- /Rank Math WordPress SEO plugin -->
 
-<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Feed" href="https://baxi-gasthermenwartung.at/feed/" />
-<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Comments Feed" href="https://baxi-gasthermenwartung.at/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Home Comments Feed" href="https://baxi-gasthermenwartung.at/home/feed/" />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://baxi-gasthermenwartung.at/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaxi-gasthermenwartung.at%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://baxi-gasthermenwartung.at/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbaxi-gasthermenwartung.at%2F&#038;format=xml" />
+<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Feed" href="#" />
+<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Comments Feed" href="#" />
+<link rel="alternate" type="application/rss+xml" title="baxi-notdienst.at &raquo; Home Comments Feed" href="#" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="#oembed/1.0/embed?url=https%3A%2F%2Fbaxi-gasthermenwartung.at%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="#oembed/1.0/embed?url=https%3A%2F%2Fbaxi-gasthermenwartung.at%2F&#038;format=xml" />
 <style id='wp-img-auto-sizes-contain-inline-css'>
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
-<link rel='stylesheet' id='hfe-widgets-style-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=2.8.6' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.1ba7b4d3.css' media='all' />
 <style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
@@ -61,46 +61,46 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 /*# sourceURL=global-styles-inline-css */
 </style>
-<link rel='stylesheet' id='contact-form-7-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' media='all' />
-<link rel='stylesheet' id='hfe-style-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.8.6' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='elementor-post-9-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-9.css?ver=1776653846' media='all' />
-<link rel='stylesheet' id='widget-heading-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-image-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-icon-list-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='e-animation-grow-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-call-to-action-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='e-transitions-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-icon-box-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-video-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='widget-nested-accordion-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=4.0.1' media='all' />
-<link rel='stylesheet' id='elementor-post-6-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-6.css?ver=1776653847' media='all' />
-<link rel='stylesheet' id='elementor-post-10-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-10.css?ver=1776653847' media='all' />
-<link rel='stylesheet' id='elementor-post-21-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-21.css?ver=1776653847' media='all' />
-<link rel='stylesheet' id='hello-elementor-css' href='https://baxi-gasthermenwartung.at/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.7' media='all' />
-<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://baxi-gasthermenwartung.at/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.7' media='all' />
-<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://baxi-gasthermenwartung.at/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.7' media='all' />
-<link rel='stylesheet' id='hfe-elementor-icons-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
-<link rel='stylesheet' id='hfe-icons-list-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3' media='all' />
-<link rel='stylesheet' id='hfe-social-icons-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0' media='all' />
-<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='hfe-widget-blockquote-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css?ver=3.25.0' media='all' />
-<link rel='stylesheet' id='hfe-mega-menu-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.css?ver=3.26.2' media='all' />
-<link rel='stylesheet' id='hfe-nav-menu-widget-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.26.0' media='all' />
-<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751917223' media='all' />
-<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751917225' media='all' />
-<script src="https://baxi-gasthermenwartung.at/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.679785df.css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.1ba7b4d3.css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='/wp-content/plugins/elementor/assets/css/frontend.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css' href='/wp-content/uploads/elementor/css/post-9.a4afb137.css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='/wp-content/plugins/elementor/assets/css/widget-heading.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='/wp-content/plugins/elementor/assets/css/widget-image.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='/wp-content/plugins/elementor/assets/css/widget-icon-list.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-call-to-action-css' href='/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='e-transitions-css' href='/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='/wp-content/plugins/elementor/assets/css/widget-icon-box.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='/wp-content/plugins/elementor/assets/css/widget-video.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='widget-nested-accordion-css' href='/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.bbf1d12f.css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='/wp-content/uploads/elementor/css/post-6.965deaee.css' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='/wp-content/uploads/elementor/css/post-10.965deaee.css' media='all' />
+<link rel='stylesheet' id='elementor-post-21-css' href='/wp-content/uploads/elementor/css/post-21.965deaee.css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='/wp-content/themes/hello-elementor/assets/css/reset.9f48fe22.css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='/wp-content/themes/hello-elementor/assets/css/theme.9f48fe22.css' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='/wp-content/themes/hello-elementor/assets/css/header-footer.9f48fe22.css' media='all' />
+<link rel='stylesheet' id='hfe-elementor-icons-css' href='/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.0fa84618.css' media='all' />
+<link rel='stylesheet' id='hfe-icons-list-css' href='/wp-content/plugins/elementor/assets/css/widget-icon-list.min.4d2b89f0.css' media='all' />
+<link rel='stylesheet' id='hfe-social-icons-css' href='/wp-content/plugins/elementor/assets/css/widget-social-icons.min.f70a797d.css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-brands-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.1bcd4ed4.css' media='all' />
+<link rel='stylesheet' id='hfe-social-share-icons-fontawesome-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.1bcd4ed4.css' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-icons-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.1bcd4ed4.css' media='all' />
+<link rel='stylesheet' id='hfe-widget-blockquote-css' href='/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.861f9369.css' media='all' />
+<link rel='stylesheet' id='hfe-mega-menu-css' href='/wp-content/plugins/elementor-pro/assets/css/widget-mega-menu.min.376a05e4.css' media='all' />
+<link rel='stylesheet' id='hfe-nav-menu-widget-css' href='/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.c030bfa4.css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='/wp-content/uploads/elementor/google-fonts/css/roboto.94391661.css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='/wp-content/uploads/elementor/google-fonts/css/robotoslab.812141ad.css' media='all' />
+<script src="/wp-includes/js/jquery/jquery.min.42f31d5c.js" id="jquery-core-js"></script>
+<script src="/wp-includes/js/jquery/jquery-migrate.min.6b8fc336.js" id="jquery-migrate-js"></script>
 <script id="jquery-js-after">
 !function($){"use strict";$(document).ready(function(){$(this).scrollTop()>100&&$(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"),$(window).scroll(function(){$(this).scrollTop()<100?$(".hfe-scroll-to-top-wrap").fadeOut(300):$(".hfe-scroll-to-top-wrap").fadeIn(300)}),$(".hfe-scroll-to-top-wrap").on("click",function(){$("html, body").animate({scrollTop:0},300);return!1})})}(jQuery);
 !function($){'use strict';$(document).ready(function(){var bar=$('.hfe-reading-progress-bar');if(!bar.length)return;$(window).on('scroll',function(){var s=$(window).scrollTop(),d=$(document).height()-$(window).height(),p=d? s/d*100:0;bar.css('width',p+'%')});});}(jQuery);
 //# sourceURL=jquery-js-after
 </script>
-<link rel="https://api.w.org/" href="https://baxi-gasthermenwartung.at/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://baxi-gasthermenwartung.at/wp-json/wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://baxi-gasthermenwartung.at/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="#" /><link rel="alternate" title="JSON" type="application/json" href="#wp/v2/pages/6" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="#" />
 <meta name="generator" content="WordPress 6.9.4" />
-<link rel='shortlink' href='https://baxi-gasthermenwartung.at/' />
+<link rel='shortlink' href='http://localhost' />
 <meta name="generator" content="Elementor 4.0.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -120,24 +120,24 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			</style>
-			<link rel="icon" href="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-32x32.jpg" sizes="32x32" />
-<link rel="icon" href="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-192x192.jpg" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-180x180.jpg" />
-<meta name="msapplication-TileImage" content="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-270x270.jpg" />
+			<link rel="icon" href="/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/07/cropped-Gutesiegel_Meister_300dpi-1-270x270.jpg" />
 </head>
 
 <body class="home wp-singular page-template-default page page-id-6 wp-embed-responsive wp-theme-hello-elementor ehf-header ehf-footer ehf-template-hello-elementor ehf-stylesheet-hello-elementor hello-elementor-default elementor-default elementor-kit-9 elementor-page elementor-page-6">
 <div id="page" class="hfeed site">
 
 		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://baxi-gasthermenwartung.at/" title="baxi-notdienst.at" rel="home">baxi-notdienst.at</a></p>
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="http://localhost" title="baxi-notdienst.at" rel="home">baxi-notdienst.at</a></p>
 					<div data-elementor-type="wp-post" data-elementor-id="10" class="elementor elementor-10" data-elementor-post-type="elementor-hf">
 				<div class="elementor-element elementor-element-ea11598 e-con-full e-flex e-con e-parent" data-id="ea11598" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-bc595ee e-con-full e-flex e-con e-child" data-id="bc595ee" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 		<div class="elementor-element elementor-element-56a2fa0 e-con-full e-flex e-con e-child" data-id="56a2fa0" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-61effd1 elementor-widget elementor-widget-image" data-id="61effd1" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-																<a href="https://baxi-gasthermenwartung.at/">
-							<img fetchpriority="high" width="361" height="146" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101.png" class="attachment-full size-full wp-image-1627" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101.png 361w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101-300x121.png 300w" sizes="(max-width: 361px) 100vw, 361px" />								</a>
+																<a href="http://localhost">
+							<img fetchpriority="high" width="361" height="146" src="/wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101.png" class="attachment-full size-full wp-image-1627" alt="" srcset="/wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101.png 361w, /wp-content/uploads/2025/07/Dein-Abschnittstext-11-e1765427559101-300x121.png 300w" sizes="(max-width: 361px) 100vw, 361px" />								</a>
 															</div>
 				</div>
 		<div class="elementor-element elementor-element-ecc4f3b e-con-full e-flex e-con e-child" data-id="ecc4f3b" data-element_type="container" data-e-type="container">
@@ -150,9 +150,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 						<svg aria-hidden="true"  class="e-font-icon-svg e-fas-align-justify" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"></path></svg>					</div>
 				</div>
 				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-fas-align-justify&quot; viewBox=&quot;0 0 448 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-close-icon="&lt;svg aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;e-font-icon-svg e-far-window-close&quot; viewBox=&quot;0 0 512 512&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M464 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm0 394c0 3.3-2.7 6-6 6H54c-3.3 0-6-2.7-6-6V86c0-3.3 2.7-6 6-6h404c3.3 0 6 2.7 6 6v340zM356.5 194.6L295.1 256l61.4 61.4c4.6 4.6 4.6 12.1 0 16.8l-22.3 22.3c-4.6 4.6-12.1 4.6-16.8 0L256 295.1l-61.4 61.4c-4.6 4.6-12.1 4.6-16.8 0l-22.3-22.3c-4.6-4.6-4.6-12.1 0-16.8l61.4-61.4-61.4-61.4c-4.6-4.6-4.6-12.1 0-16.8l22.3-22.3c4.6-4.6 12.1-4.6 16.8 0l61.4 61.4 61.4-61.4c4.6-4.6 12.1-4.6 16.8 0l22.3 22.3c4.7 4.6 4.7 12.1 0 16.8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" data-full-width="yes">
-					<ul id="menu-1-82cc161" class="hfe-nav-menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/" class = "hfe-menu-item">Home</a></li>
-<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/datenschutz/" class = "hfe-menu-item">datenschutz</a></li>
-<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/impressum/" class = "hfe-menu-item">Impressum</a></li>
+					<ul id="menu-1-82cc161" class="hfe-nav-menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item parent hfe-creative-menu"><a href="/" class = "hfe-menu-item">Home</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="/datenschutz" class = "hfe-menu-item">datenschutz</a></li>
+<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="/impressum" class = "hfe-menu-item">Impressum</a></li>
 </ul> 
 				</nav>
 			</div>
@@ -170,9 +170,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					<div id="hfe-flyout-content-id-4e2e424" class="hfe-side hfe-flyout-left hfe-flyout-open" data-layout="left" data-flyout-type="normal">
 						<div class="hfe-flyout-content push">
 							<nav >
-								<ul id="menu-1-4e2e424" class="hfe-nav-menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/" class = "hfe-menu-item">Home</a></li>
-<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/datenschutz/" class = "hfe-menu-item">datenschutz</a></li>
-<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="https://baxi-gasthermenwartung.at/impressum/" class = "hfe-menu-item">Impressum</a></li>
+								<ul id="menu-1-4e2e424" class="hfe-nav-menu"><li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item parent hfe-creative-menu"><a href="/" class = "hfe-menu-item">Home</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="/datenschutz" class = "hfe-menu-item">datenschutz</a></li>
+<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"><a href="/impressum" class = "hfe-menu-item">Impressum</a></li>
 </ul>							</nav>
 							<div class="elementor-clickable hfe-flyout-close" tabindex="0">
 								<svg aria-hidden="true" tabindex="0" class="e-font-icon-svg e-far-window-close" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M464 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm0 394c0 3.3-2.7 6-6 6H54c-3.3 0-6-2.7-6-6V86c0-3.3 2.7-6 6-6h404c3.3 0 6 2.7 6 6v340zM356.5 194.6L295.1 256l61.4 61.4c4.6 4.6 4.6 12.1 0 16.8l-22.3 22.3c-4.6 4.6-12.1 4.6-16.8 0L256 295.1l-61.4 61.4c-4.6 4.6-12.1 4.6-16.8 0l-22.3-22.3c-4.6-4.6-4.6-12.1 0-16.8l61.4-61.4-61.4-61.4c-4.6-4.6-4.6-12.1 0-16.8l22.3-22.3c4.6-4.6 12.1-4.6 16.8 0l61.4 61.4 61.4-61.4c4.6-4.6 12.1-4.6 16.8 0l22.3 22.3c4.7 4.6 4.7 12.1 0 16.8z"></path></svg>							</div>
@@ -185,7 +185,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				</div>
 		<div class="elementor-element elementor-element-3a593be e-con-full e-flex e-con e-child" data-id="3a593be" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-8926dbf elementor-widget elementor-widget-image" data-id="8926dbf" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img width="862" height="862" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/Gutesiegel-Meister.webp" class="attachment-full size-full wp-image-1577" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/Gutesiegel-Meister.webp 862w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/Gutesiegel-Meister-300x300.webp 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/Gutesiegel-Meister-150x150.webp 150w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/Gutesiegel-Meister-768x768.webp 768w" sizes="(max-width: 862px) 100vw, 862px" />															</div>
+															<img width="862" height="862" src="/wp-content/uploads/2025/09/Gutesiegel-Meister.webp" class="attachment-full size-full wp-image-1577" alt="" srcset="/wp-content/uploads/2025/09/Gutesiegel-Meister.webp 862w, /wp-content/uploads/2025/09/Gutesiegel-Meister-300x300.webp 300w, /wp-content/uploads/2025/09/Gutesiegel-Meister-150x150.webp 150w, /wp-content/uploads/2025/09/Gutesiegel-Meister-768x768.webp 768w" sizes="(max-width: 862px) 100vw, 862px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-589bd1d e-con-full elementor-hidden-mobile e-flex e-con e-child" data-id="589bd1d" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-1e20919 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="1e20919" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
@@ -234,7 +234,7 @@ FÜR DEN HERBST</h2>				</div>
 		</div>
 						</div>
 				<div class="elementor-element elementor-element-9372846 elementor-widget elementor-widget-image" data-id="9372846" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img decoding="async" width="400" height="146" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png" class="attachment-large size-large wp-image-1584" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png 400w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1-300x110.png 300w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+															<img decoding="async" width="400" height="146" src="/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png" class="attachment-large size-large wp-image-1584" alt="" srcset="/wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1.png 400w, /wp-content/uploads/2025/09/imgi_18_Baxi2-400x146-1-300x110.png 300w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
 				<div class="elementor-element elementor-element-297c661 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="297c661" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 					<h2 class="elementor-heading-title elementor-size-default">FREIER INSTALLATEUR -NICHT Baxi WERKSKUNDENDIENST</h2>				</div>
 				<div class="elementor-element elementor-element-45f059f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="45f059f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
@@ -273,7 +273,7 @@ FÜR DEN HERBST</h2>				</div>
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-c43ac33 e-con-full e-flex e-con e-child" data-id="c43ac33" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-4b0b8a6 elementor-widget elementor-widget-image" data-id="4b0b8a6" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="800" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxxxii.png" class="elementor-animation-grow attachment-large size-large wp-image-1650" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxxxii.png 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxxxii-300x300.png 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxxxii-150x150.png 150w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxxxii-768x768.png 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="800" src="/wp-content/uploads/2026/02/Baxxxii.png" class="elementor-animation-grow attachment-large size-large wp-image-1650" alt="" srcset="/wp-content/uploads/2026/02/Baxxxii.png 1024w, /wp-content/uploads/2026/02/Baxxxii-300x300.png 300w, /wp-content/uploads/2026/02/Baxxxii-150x150.png 150w, /wp-content/uploads/2026/02/Baxxxii-768x768.png 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-9aca782 e-con-full e-flex e-con e-child" data-id="9aca782" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-7682414 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="7682414" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -283,7 +283,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-51689ae elementor-widget elementor-widget-text-editor" data-id="51689ae" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									<div class="elementor-element elementor-element-0756a2b elementor-widget elementor-widget-text-editor" data-id="0756a2b" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="elementor-element elementor-element-fbad4a9 elementor-widget elementor-widget-text-editor" data-id="fbad4a9" data-element_type="widget" data-widget_type="text-editor.default"><div class="elementor-widget-container"><div class="w-full text-token-text-primary" data-testid="conversation-turn-5"><div class="px-4 py-2 justify-center text-base md:gap-6 m-auto"><div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group"><div class="relative flex w-full flex-col agent-turn"><div class="flex-col gap-1 md:gap-3"><div class="flex flex-grow flex-col max-w-full"><div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="57e60120-31ef-4a62-bb7b-c19909239ee1"><div class="markdown prose w-full break-words dark:prose-invert dark"><p><span style="font-weight: 400;">Wir sorgen für Ihre Sicherheit und Ihren Komfort: Mit professioneller Thermenwartung, zuverlässigem Notdienst und modernen Installationen sind wir Ihr starker Partner in Wien, Niederösterreich und Burgenland. Persönlich, transparent und mit echtem Servicebewusstsein.</span></p></div></div></div></div></div></div></div></div></div></div></div></div>								</div>
 				<div class="elementor-element elementor-element-8deef51 elementor-widget elementor-widget-image" data-id="8deef51" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="600" height="300" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a.png" class="attachment-large size-large wp-image-1587" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a.png 600w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+															<img loading="lazy" decoding="async" width="600" height="300" src="/wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a.png" class="attachment-large size-large wp-image-1587" alt="" srcset="/wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a.png 600w, /wp-content/uploads/2025/09/csm_Google-Bewertungen-kaufen_b02868211a-300x150.png 300w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
 		<div class="elementor-element elementor-element-43021d3 e-con-full e-flex e-con e-child" data-id="43021d3" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-eedf924 elementor-widget elementor-widget-button" data-id="eedf924" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 										<a class="elementor-button elementor-button-link elementor-size-sm" href="#contact">
@@ -309,7 +309,7 @@ FÜR DEN HERBST</h2>				</div>
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-fbbeba4 e-con-full e-flex e-con e-child" data-id="fbbeba4" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-9b41c4b elementor-widget elementor-widget-image" data-id="9b41c4b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="534" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp" class="attachment-large size-large wp-image-238" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-300x200.webp 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-768x512.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="534" src="/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp" class="attachment-large size-large wp-image-238" alt="" srcset="/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp 1024w, /wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-300x200.webp 300w, /wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-768x512.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-8d53bdd e-con-full e-flex e-con e-child" data-id="8d53bdd" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-96a36d0 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="96a36d0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -342,7 +342,7 @@ FÜR DEN HERBST</h2>				</div>
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-abdae29 e-con-full e-flex e-con e-child" data-id="abdae29" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-76e2de5 elementor-widget elementor-widget-image" data-id="76e2de5" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="534" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-1024x683.png" class="attachment-large size-large wp-image-262" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-1024x683.png 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-300x200.png 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-768x512.png 768w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM.png 1536w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="534" src="/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-1024x683.png" class="attachment-large size-large wp-image-262" alt="" srcset="/wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-1024x683.png 1024w, /wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-300x200.png 300w, /wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM-768x512.png 768w, /wp-content/uploads/2025/07/ChatGPT-Image-Jul-20-2025-06_20_32-PM.png 1536w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-11bd139 e-con-full e-flex e-con e-child" data-id="11bd139" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-18ed96f elementor-widget elementor-widget-heading" data-id="18ed96f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -370,7 +370,7 @@ FÜR DEN HERBST</h2>				</div>
 				</div>
 		<div class="elementor-element elementor-element-1bf9244 e-con-full e-flex e-con e-child" data-id="1bf9244" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-076ad96 elementor-widget elementor-widget-image" data-id="076ad96" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="683" height="1024" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1-683x1024.png" class="attachment-large size-large wp-image-1649" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1-683x1024.png 683w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1-200x300.png 200w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1-768x1152.png 768w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1.png 1024w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
+															<img loading="lazy" decoding="async" width="683" height="1024" src="/wp-content/uploads/2026/02/Baxii-1-683x1024.png" class="attachment-large size-large wp-image-1649" alt="" srcset="/wp-content/uploads/2026/02/Baxii-1-683x1024.png 683w, /wp-content/uploads/2026/02/Baxii-1-200x300.png 200w, /wp-content/uploads/2026/02/Baxii-1-768x1152.png 768w, /wp-content/uploads/2026/02/Baxii-1.png 1024w" sizes="(max-width: 683px) 100vw, 683px" />															</div>
 				</div>
 					</div>
 				</div>
@@ -380,7 +380,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-3652e34 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="3652e34" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
 							<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://baxi-gasthermenwartung.at/wp-content/uploads/2025/08/ChatGPT-Image-Aug-17-2025-11_39_32-PM_11zon.png);" role="img" aria-label="ChatGPT Image Aug 17, 2025, 11_39_32 PM_11zon"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2025/08/ChatGPT-Image-Aug-17-2025-11_39_32-PM_11zon.png);" role="img" aria-label="ChatGPT Image Aug 17, 2025, 11_39_32 PM_11zon"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -403,7 +403,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-8f40325 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="8f40325" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
 							<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://baxi-gasthermenwartung.at/wp-content/uploads/2025/08/d9c37dfa-a1eb-4607-9828-0407389d9733.jpg);" role="img" aria-label="d9c37dfa-a1eb-4607-9828-0407389d9733"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2025/08/d9c37dfa-a1eb-4607-9828-0407389d9733.jpg);" role="img" aria-label="d9c37dfa-a1eb-4607-9828-0407389d9733"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -426,7 +426,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-3762c49 elementor-cta--layout-image-above elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="3762c49" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
 							<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://baxi-gasthermenwartung.at/wp-content/uploads/2025/08/2c69ce4a-b5df-4251-bc2d-10f5c4590bd6.jpg);" role="img" aria-label="2c69ce4a-b5df-4251-bc2d-10f5c4590bd6"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2025/08/2c69ce4a-b5df-4251-bc2d-10f5c4590bd6.jpg);" role="img" aria-label="2c69ce4a-b5df-4251-bc2d-10f5c4590bd6"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -449,7 +449,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-3312177 elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="3312177" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
 							<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://baxi-gasthermenwartung.at/wp-content/uploads/2025/08/1000_F_38716240_YU474Wz4SEbc52sd0aEJKuEbyVLDdgF1-removebg-preview-1.png);" role="img" aria-label="1000_F_38716240_YU474Wz4SEbc52sd0aEJKuEbyVLDdgF1-removebg-preview"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2025/08/1000_F_38716240_YU474Wz4SEbc52sd0aEJKuEbyVLDdgF1-removebg-preview-1.png);" role="img" aria-label="1000_F_38716240_YU474Wz4SEbc52sd0aEJKuEbyVLDdgF1-removebg-preview"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -472,7 +472,7 @@ FÜR DEN HERBST</h2>				</div>
 				<div class="elementor-element elementor-element-df04f39 elementor-cta--skin-cover elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="df04f39" data-element_type="widget" data-e-type="widget" data-widget_type="call-to-action.default">
 							<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/imgi_16_Website_40fqXMP.png);" role="img" aria-label="imgi_16_Website_40fqXMP"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(/wp-content/uploads/2025/07/imgi_16_Website_40fqXMP.png);" role="img" aria-label="imgi_16_Website_40fqXMP"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -674,7 +674,7 @@ FÜR DEN HERBST</h2>				</div>
 				</div>
 		<div class="elementor-element elementor-element-0a1df2d e-con-full e-flex e-con e-child" data-id="0a1df2d" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-20ee19b elementor-widget elementor-widget-image" data-id="20ee19b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="534" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxi-1024x683.png" class="attachment-large size-large wp-image-1643" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxi-1024x683.png 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxi-300x200.png 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxi-768x512.png 768w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxi.png 1536w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="534" src="/wp-content/uploads/2026/02/Baxi-1024x683.png" class="attachment-large size-large wp-image-1643" alt="" srcset="/wp-content/uploads/2026/02/Baxi-1024x683.png 1024w, /wp-content/uploads/2026/02/Baxi-300x200.png 300w, /wp-content/uploads/2026/02/Baxi-768x512.png 768w, /wp-content/uploads/2026/02/Baxi.png 1536w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 					</div>
 				</div>
@@ -706,7 +706,7 @@ FÜR DEN HERBST</h2>				</div>
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-e769adb e-con-full e-flex e-con e-child" data-id="e769adb" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-833b9b9 elementor-widget elementor-widget-image" data-id="833b9b9" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="625" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1024x800.png" class="attachment-large size-large wp-image-1647" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-1024x800.png 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-300x234.png 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii-768x600.png 768w, https://baxi-gasthermenwartung.at/wp-content/uploads/2026/02/Baxii.png 1106w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="625" src="/wp-content/uploads/2026/02/Baxii-1024x800.png" class="attachment-large size-large wp-image-1647" alt="" srcset="/wp-content/uploads/2026/02/Baxii-1024x800.png 1024w, /wp-content/uploads/2026/02/Baxii-300x234.png 300w, /wp-content/uploads/2026/02/Baxii-768x600.png 768w, /wp-content/uploads/2026/02/Baxii.png 1106w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 		<div class="elementor-element elementor-element-76d3a5b e-con-full e-flex e-con e-child" data-id="76d3a5b" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-9cac633 elementor-widget elementor-widget-heading" data-id="9cac633" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
@@ -755,9 +755,17 @@ FÜR DEN HERBST</h2>				</div>
 			
 		</div>
 						</div>
-				<div class="elementor-element elementor-element-c3f935b elementor-widget elementor-widget-video" data-id="c3f935b" data-element_type="widget" data-e-type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=7tMBkTWsyGk&amp;t=34s&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;}" data-widget_type="video.default">
+				<div class="elementor-element elementor-element-c3f935b elementor-widget elementor-widget-video" data-id="c3f935b" data-element_type="widget" data-e-type="widget" data-widget_type="video.default">
 							<div class="elementor-wrapper elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
+			<iframe
+				class="elementor-video"
+				src="https://www.youtube.com/embed/7tMBkTWsyGk?start=34&autoplay=1&mute=1&loop=1&playlist=7tMBkTWsyGk&rel=0&modestbranding=1&playsinline=1"
+				title="Unsere glücklichen Kunden"
+				loading="lazy"
+				referrerpolicy="strict-origin-when-cross-origin"
+				allow="autoplay; encrypted-media; picture-in-picture; web-share"
+				allowfullscreen
+			></iframe>		</div>
 						</div>
 				<div class="elementor-element elementor-element-6aba4cb elementor-widget elementor-widget-icon-box" data-id="6aba4cb" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
 							<div class="elementor-icon-box-wrapper">
@@ -894,7 +902,7 @@ FÜR DEN HERBST</h2>				</div>
 				</div>
 		<div class="elementor-element elementor-element-baba34f e-con-full e-flex e-con e-child" data-id="baba34f" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				<div class="elementor-element elementor-element-9e105cd elementor-widget elementor-widget-image" data-id="9e105cd" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
-															<img loading="lazy" decoding="async" width="800" height="534" src="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp" class="attachment-large size-large wp-image-238" alt="" srcset="https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp 1024w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-300x200.webp 300w, https://baxi-gasthermenwartung.at/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-768x512.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img loading="lazy" decoding="async" width="800" height="534" src="/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp" class="attachment-large size-large wp-image-238" alt="" srcset="/wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1.webp 1024w, /wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-300x200.webp 300w, /wp-content/uploads/2025/07/Baxi-Gas-1536x1024-1-1024x683-1-768x512.webp 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 					</div>
 				</div>
@@ -1386,45 +1394,49 @@ FÜR DEN HERBST</h2>				</div>
 					<h2 class="elementor-heading-title elementor-size-default">Kontaktieren Sie uns</h2>				</div>
 				<div class="elementor-element elementor-element-bf8a373 elementor-widget elementor-widget-shortcode" data-id="bf8a373" data-element_type="widget" data-e-type="widget" data-widget_type="shortcode.default">
 							<div class="elementor-shortcode">
-<div class="contact-form-block" id="wpcf7-f44-p6-o1" lang="en-US" dir="ltr">
-<form action="__CONTACT_FORM_ACTION__" method="post" aria-label="Contact form">
-__CONTACT_FORM_CSRF__
-__CONTACT_FORM_SUCCESS__
-__CONTACT_FORM_ERROR__
+<div class="wpcf7 no-js" id="wpcf7-f44-p6-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="{{ route('contact.submit') }}#wpcf7-f44-p6-o1" method="post" aria-label="Contact form" novalidate="novalidate">
+@csrf
+@if (session('contact_success'))
+<div class="form-alert form-alert-success">{{ session('contact_success') }}</div>
+@endif
+@if ($errors->any())
+<div class="form-alert form-alert-error">Bitte pruefen Sie die eingegebenen Daten und versuchen Sie es erneut.</div>
+@endif
 <div class="row">
 	<div class="field">
-		<p><span data-name="your-name"><input size="40" maxlength="255" class="contact-form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_NAME__" placeholder="Ihr Name" value="__CONTACT_OLD_NAME__" type="text" name="your-name" required /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-name') ? 'true' : 'false' }}" placeholder="Ihr Name" value="{{ old('your-name') }}" type="text" name="your-name" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span data-name="your-email"><input size="40" maxlength="255" class="contact-form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_EMAIL__" placeholder="E-Mail-Adresse" value="__CONTACT_OLD_EMAIL__" type="email" name="your-email" required /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="{{ $errors->has('your-email') ? 'true' : 'false' }}" placeholder="E-Mail-Adresse" value="{{ old('your-email') }}" type="email" name="your-email" /></span>
 		</p>
 	</div>
 	<div class="field">
-		<p><span data-name="your-phone"><input size="40" maxlength="255" class="contact-form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_PHONE__" placeholder="Telefonnummer" value="__CONTACT_OLD_PHONE__" type="tel" name="your-phone" required /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="{{ $errors->has('your-phone') ? 'true' : 'false' }}" placeholder="Telefonnummer" value="{{ old('your-phone') }}" type="tel" name="your-phone" /></span>
 		</p>
 	</div>
 </div>
 <div class="row">
 	<div class="field">
-		<p><span data-name="your-company"><input size="40" maxlength="255" class="contact-form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_COMPANY__" placeholder="Name der Firma" value="__CONTACT_OLD_COMPANY__" type="text" name="your-company" required /></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-company') ? 'true' : 'false' }}" placeholder="Name der Firma" value="{{ old('your-company') }}" type="text" name="your-company" /></span>
 		</p>
 	</div>
 </div>
 <div class="row full">
 	<div class="field">
-		<p><span data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="contact-form-control" aria-required="true" aria-invalid="__CONTACT_INVALID_MESSAGE__" placeholder="Nachricht" name="your-message" required>__CONTACT_OLD_MESSAGE__</textarea></span>
+		<p><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="{{ $errors->has('your-message') ? 'true' : 'false' }}" placeholder="Nachricht" name="your-message">{{ old('your-message') }}</textarea></span>
 		</p>
 	</div>
 </div>
 <div class="button-wrapper">
-	<p><input class="contact-form-submit" type="submit" value="Anfrage senden" />
+	<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Anfrage senden" />
 	</p>
 </div>
-__CONTACT_FORM_SUCCESS_ALERT__
 <style>
 /* Base styling */
-.contact-form-block {
+.wpcf7 {
  font-family: 'Montserrat', sans-serif;
  max-width: 1000px;
  margin: 0 auto;
@@ -1434,46 +1446,46 @@ __CONTACT_FORM_SUCCESS_ALERT__
  color: #0f1c3f;
 }
 
-.contact-form-block .form-alert {
+.wpcf7 .form-alert {
  padding: 1rem 1.25rem;
  border-radius: 6px;
  margin-bottom: 1rem;
  font-size: 0.95rem;
 }
 
-.contact-form-block .form-alert-success {
+.wpcf7 .form-alert-success {
  background-color: #e8f7ee;
  border: 1px solid #8bc7a1;
  color: #175b31;
 }
 
-.contact-form-block .form-alert-error {
+.wpcf7 .form-alert-error {
  background-color: #fdecec;
  border: 1px solid #e1a0a0;
  color: #8b1e1e;
 }
 
-.contact-form-block .row {
+.wpcf7 .row {
  display: flex;
  gap: 1rem;
  margin-bottom: 1rem;
  flex-wrap: wrap;
 }
 
-.contact-form-block .row.full {
+.wpcf7 .row.full {
  flex-direction: column;
 }
 
-.contact-form-block .field {
+.wpcf7 .field {
  flex: 1;
  min-width: 280px;
  display: flex;
  flex-direction: column;
 }
 
-.contact-form-block input,
-.contact-form-block select,
-.contact-form-block textarea {
+.wpcf7 input,
+.wpcf7 select,
+.wpcf7 textarea {
  padding: 1rem;
  border: 1px solid #ccc;
  border-radius: 6px;
@@ -1482,17 +1494,17 @@ __CONTACT_FORM_SUCCESS_ALERT__
  width: 100%;
 }
 
-.contact-form-block textarea {
+.wpcf7 textarea {
  min-height: 150px;
  resize: vertical;
 }
 
-.contact-form-block .button-wrapper {
+.wpcf7 .button-wrapper {
  text-align: center;
  margin-top: 1.5rem;
 }
 
-.contact-form-block input[type="submit"] {
+.wpcf7 input[type="submit"] {
  background-color: #19365E;
  color: white;
  padding: 1rem 2rem;
@@ -1503,16 +1515,16 @@ __CONTACT_FORM_SUCCESS_ALERT__
  transition: background-color 0.3s ease;
 }
 
-.contact-form-block input[type="submit"]:hover {
+.wpcf7 input[type="submit"]:hover {
  background-color: #3e365e;
 }
 
 @media (max-width: 768px) {
- .contact-form-block .row {
+ .wpcf7 .row {
  flex-direction: column;
  }
 }
-</style>
+</style><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
 
@@ -1599,9 +1611,9 @@ __CONTACT_FORM_SUCCESS_ALERT__
 				<div class="elementor-element elementor-element-2520f3b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="2520f3b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 									<p><span style="color: #ffffff;">Installateur Zentrum Reinlgasse 26 1140 Wien Firmenbuchgericht: Wien Firmenbuchnummer: FN 585038 a ATU78514467 Rechtsform: Einzelunternehmen Wir sind Mitglied der WKÖ /Wirtschaftskammer Wien Landesinnung Wien der Sanitär-, Heizungs- und Lüftungstechniker Meisterbetrieb, Meisterprüfung abgelegt in Österreich</span></p>								</div>
 				<div class="elementor-element elementor-element-34cdd38 elementor-widget elementor-widget-heading" data-id="34cdd38" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-					<h2 class="elementor-heading-title elementor-size-default"><a href="https://baxi-gasthermenwartung.at/datenschutz/">Datenschutz</a></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default"><a href="/datenschutz">Datenschutz</a></h2>				</div>
 				<div class="elementor-element elementor-element-6e75acf elementor-widget elementor-widget-heading" data-id="6e75acf" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
-					<h2 class="elementor-heading-title elementor-size-default"><a href="https://baxi-gasthermenwartung.at/impressum/">Impressum</a></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default"><a href="/impressum">Impressum</a></h2>				</div>
 				<div class="elementor-element elementor-element-1488603 elementor-widget elementor-widget-html" data-id="1488603" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
 					<style>
     #app-footer-menu{
@@ -1758,50 +1770,50 @@ __CONTACT_FORM_SUCCESS_ALERT__
 					document.addEventListener( event, lazyloadRunObserver );
 				} );
 			</script>
-			<link rel='stylesheet' id='elementor-post-582-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-582.css?ver=1776653847' media='all' />
-<link rel='stylesheet' id='elementor-post-588-css' href='https://baxi-gasthermenwartung.at/wp-content/uploads/elementor/css/post-588.css?ver=1776653847' media='all' />
-<link rel='stylesheet' id='widget-google_maps-css' href='https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css?ver=4.0.1' media='all' />
-<script src="https://baxi-gasthermenwartung.at/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+			<link rel='stylesheet' id='elementor-post-582-css' href='/wp-content/uploads/elementor/css/post-582.965deaee.css' media='all' />
+<link rel='stylesheet' id='elementor-post-588-css' href='/wp-content/uploads/elementor/css/post-588.965deaee.css' media='all' />
+<link rel='stylesheet' id='widget-google_maps-css' href='/wp-content/plugins/elementor/assets/css/widget-google_maps.min.bbf1d12f.css' media='all' />
+<script src="/wp-includes/js/dist/hooks.min.afc3f37e.js" id="wp-hooks-js"></script>
+<script src="/wp-includes/js/dist/i18n.min.4fb0631e.js" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 </script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script src="/wp-content/plugins/contact-form-7/includes/swv/js/index.679785df.js" id="swv-js"></script>
 <script id="contact-form-7-js-before">
 var wpcf7 = {
     "api": {
-        "root": "https:\/\/baxi-gasthermenwartung.at\/wp-json\/",
+        "root": "#",
         "namespace": "contact-form-7\/v1"
     }
 };
 //# sourceURL=contact-form-7-js-before
 </script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.1" id="elementor-webpack-runtime-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.1" id="elementor-frontend-modules-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="/wp-content/plugins/contact-form-7/includes/js/index.679785df.js" id="contact-form-7-js"></script>
+<script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.bbf1d12f.js" id="elementor-webpack-runtime-js"></script>
+<script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.bbf1d12f.js" id="elementor-frontend-modules-js"></script>
+<script src="/wp-includes/js/jquery/ui/core.min.6c6c33b3.js" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.0.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/baxi-gasthermenwartung.at\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/baxi-gasthermenwartung.at\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"0ee5635104","atomicFormsSendForm":"b3359583d7"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":6,"title":"Der%20zuverl%C3%A4ssige%20Baxi%20Gasthermenwartung%3A%20Ihre%20Unterst%C3%BCtzung%20f%C3%BCr%20Heizungen","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.0.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"http://localhost/wp-content/plugins/elementor/assets/","ajaxurl":"#","uploadUrl":"http://localhost/wp-content/uploads"},"nonces":{"floatingButtonsClickTracking":"0ee5635104","atomicFormsSendForm":"b3359583d7"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":6,"title":"Der%20zuverl%C3%A4ssige%20Baxi%20Gasthermenwartung%3A%20Ihre%20Unterst%C3%BCtzung%20f%C3%BCr%20Heizungen","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.1" id="elementor-frontend-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.7" id="hello-theme-frontend-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=2.8.6" id="hfe-frontend-js-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.0.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="/wp-content/plugins/elementor/assets/js/frontend.min.bbf1d12f.js" id="elementor-frontend-js"></script>
+<script src="/wp-content/themes/hello-elementor/assets/js/hello-frontend.9f48fe22.js" id="hello-theme-frontend-js"></script>
+<script src="/wp-content/plugins/header-footer-elementor/inc/js/frontend.1ba7b4d3.js" id="hfe-frontend-js-js"></script>
+<script src="/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.bbf1d12f.js" id="elementor-pro-webpack-runtime-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/baxi-gasthermenwartung.at\/wp-admin\/admin-ajax.php","nonce":"4fc46823a3","urls":{"assets":"https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/baxi-gasthermenwartung.at\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"#","nonce":"4fc46823a3","urls":{"assets":"http://localhost/wp-content/plugins/elementor-pro/assets/","rest":"#"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/baxi-gasthermenwartung.at\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.0.1" id="elementor-pro-frontend-js"></script>
-<script src="https://baxi-gasthermenwartung.at/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.0.1" id="pro-elements-handlers-js"></script>
+<script src="/wp-content/plugins/elementor-pro/assets/js/frontend.min.bbf1d12f.js" id="elementor-pro-frontend-js"></script>
+<script src="/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.bbf1d12f.js" id="pro-elements-handlers-js"></script>
 <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://baxi-gasthermenwartung.at/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.2b60b94d.js"}}
 </script>
 <script type="module">
 /*! This file is auto-generated */
 const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
-//# sourceURL=https://baxi-gasthermenwartung.at/wp-includes/js/wp-emoji-loader.min.js
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
 </script>
 </body>
 </html> 
